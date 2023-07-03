@@ -12,11 +12,10 @@ The more I studied the more I realised I really love the front-end aspect of sof
 I aim to keep learning coding and take on design lessons on the side so I can create more beautiful and functional things!
 
 
-*   🌍  I'm based in Europe, but moving to Vancouver, BC in 2022
+*   🌍  I'm based in Europe
 *   ✉️  You can contact me at [KrisGpublic@pm.me](mailto:KrisGpublic@pm.me)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on interesting and/or simple projects
-*   ⚡  In my spare time I go to the gym, hiking and bouldering. I love reading and do photography on the side.
 
 
 <b>Skills</b>
